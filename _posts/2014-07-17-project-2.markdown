@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:  <a href="http://54.187.220.65/someone_like_you_taylor_swift.mp4">Machine learning project to apply any face onto existing video.</a>
+description:  <a href="http://grabbieteam.com/github.io/someone_like_you_taylor_swift.mp4">Machine learning project to apply any face onto existing video.</a>
 
 ---
