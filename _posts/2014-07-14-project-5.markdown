@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 5
 title: Frogger game on FPGA
 date: 2014-07-14
 img: frogger.png
@@ -8,5 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a href="https://www.youtube.com/watch?v=ZOUKRKi7Ezg">Building up frogger game gate by gate on Altera FPGA</a>
+description: Frogger game on FPGA
+external_link: https://www.youtube.com/watch?v=ZOUKRKi7Ezg
 ---

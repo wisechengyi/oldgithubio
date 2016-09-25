@@ -2,12 +2,10 @@
 layout: default
 modal-id: 1
 title: iDream Celebrity Factory
-date: 2014-07-18
+# date: 2014-07-18
 img: grabbie.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Grabbie is an App to find point of interest along the way. Avaialable on <a href="http://itunes.apple.com/us/app/grabbie/id950953254?ls=1&mt=8">iTunes</a>.
-
+description: Grabbie is an App to find point of interest along the way
+external_link: http://itunes.apple.com/us/app/grabbie/id950953254?ls=1&mt=8
 ---

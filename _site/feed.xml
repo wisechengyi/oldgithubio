@@ -5,43 +5,53 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://wisechengyi.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Mar 2015 23:35:19 -0700</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2015 23:35:19 -0700</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 25 Sep 2016 00:55:04 -0700</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2016 00:55:04 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>iDream Celebrity Factory</title>
-        <description>Grabbie is an App to find point of interest along the way. Avaialable on &lt;a href=&quot;http://itunes.apple.com/us/app/grabbie/id950953254?ls=1&amp;mt=8&quot;&gt;iTunes&lt;/a&gt;.</description>
+        <description>Grabbie is an App to find point of interest along the way</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/18/project-1/</guid>
+        <link>https://wisechengyi.github.io/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/2014/07/18/project-1/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
         <title>iDream Celebrity Factory</title>
-        <description>&lt;a href=&quot;http://grabbieteam.com/github.io/someone_like_you_taylor_swift.mp4&quot;&gt;Machine learning project to apply any face onto existing video.&lt;/a&gt;</description>
+        <description>iDream Celebrity Factory Face Morphing</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://wisechengyi.github.io/web%20development/2014/07/17/project-2/</link>
         <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/17/project-2/</guid>
         
         
-        <category>web development</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Levitation Magic</title>
-        <description>&lt;a href=&quot;https://www.youtube.com/watch?v=iNN8oNbfN4s&quot;&gt;Computer vision project focuses on motion and boundary detection&lt;/a&gt;</description>
+        <title>Project 3</title>
+        <description>Levitation Magic. motion and boundary detection</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://wisechengyi.github.io/web%20development/2014/07/16/project-3/</link>
         <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/16/project-3/</guid>
         
         
-        <category>web development</category>
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Project 4</title>
+        <description>Air Control Game written in smalltalk.</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</guid>
+        
+        
+        <category>Web Development</category>
         
       </item>
     
@@ -53,31 +63,19 @@
         <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-6/</guid>
         
         
-        <category>web development</category>
-        
-      </item>
-    
-      <item>
-        <title>Air Control Game</title>
-        <description>&lt;a href=&quot;https://www.youtube.com/watch?v=AWg2zlmB_4w&quot;&gt; Air Control Game written in smalltalk for design pattern class&lt;/a&gt;</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>web development</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
         <title>Frogger game on FPGA</title>
-        <description>&lt;a href=&quot;https://www.youtube.com/watch?v=ZOUKRKi7Ezg&quot;&gt;Building up frogger game gate by gate on Altera FPGA&lt;/a&gt;</description>
+        <description>Frogger game on FPGA</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://wisechengyi.github.io/web%20development/2014/07/14/project-5/</link>
         <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/14/project-5/</guid>
         
         
-        <category>web development</category>
+        <category>Web Development</category>
         
       </item>
     
