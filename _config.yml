@@ -35,11 +35,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: San Francisco Bay
-#  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+## Build settings
+#markdown: kramdown
+#permalink: pretty

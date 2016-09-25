@@ -5,16 +5,16 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://wisechengyi.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Sep 2016 00:55:04 -0700</pubDate>
-    <lastBuildDate>Sun, 25 Sep 2016 00:55:04 -0700</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2016 01:23:17 -0700</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2016 01:23:17 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>iDream Celebrity Factory</title>
         <description>Grabbie is an App to find point of interest along the way</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/2014/07/18/project-1/</guid>
+        <link>https://wisechengyi.github.io/2014/07/18/project-1.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/2014/07/18/project-1.html</guid>
         
         
       </item>
@@ -23,8 +23,8 @@
         <title>iDream Celebrity Factory</title>
         <description>iDream Celebrity Factory Face Morphing</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/17/project-2/</guid>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/17/project-2.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/17/project-2.html</guid>
         
         
         <category>Web Development</category>
@@ -35,8 +35,8 @@
         <title>Project 3</title>
         <description>Levitation Magic. motion and boundary detection</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/16/project-3/</guid>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/16/project-3.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/16/project-3.html</guid>
         
         
         <category>Web Development</category>
@@ -47,8 +47,8 @@
         <title>Project 4</title>
         <description>Air Control Game written in smalltalk.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-4/</guid>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/15/project-4.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-4.html</guid>
         
         
         <category>Web Development</category>
@@ -56,11 +56,23 @@
       </item>
     
       <item>
-        <title>the next big thing</title>
-        <description></description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/15/project-6/</guid>
+        <title>Project 7</title>
+        <description>Lego Tinder Bot v2</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/14/project-7.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/14/project-7.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Frogger game on FPGA</title>
+        <description>Lego Tinder Bot v1</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/14/project-6.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/14/project-6.html</guid>
         
         
         <category>Web Development</category>
@@ -71,8 +83,8 @@
         <title>Frogger game on FPGA</title>
         <description>Frogger game on FPGA</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://wisechengyi.github.io/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/14/project-5/</guid>
+        <link>https://wisechengyi.github.io/web%20development/2014/07/14/project-5.html</link>
+        <guid isPermaLink="true">https://wisechengyi.github.io/web%20development/2014/07/14/project-5.html</guid>
         
         
         <category>Web Development</category>

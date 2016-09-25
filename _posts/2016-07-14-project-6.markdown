@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+title: Frogger game on FPGA
+date: 2014-07-14
+img: lego_bot_1.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lego Tinder Bot v1
+external_link: https://www.youtube.com/watch?v=_-EPT7NwNXI
+---
